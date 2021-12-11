@@ -1,4 +1,4 @@
-# 인공지능 이미지 분류 프로그램
+# 인공지능 이미지 분류
 Image Classifier with *Python*
 
 using *Flask*
