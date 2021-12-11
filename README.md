@@ -13,5 +13,5 @@ using *Flask*
 ## Getting Started
 ```
 main.py
-http://localhost:5000
+http://localhost:5000/
 ```
