@@ -1,5 +1,5 @@
 # 인공지능 이미지 분류 프로그램
-Image Classifier Web Page with *Python*
+Image Classifier with *Python*
 
 using *Flask*
 
