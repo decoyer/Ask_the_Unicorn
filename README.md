@@ -4,7 +4,7 @@ Image Classifier with *Python*
 using *Flask*
 
 ## Details
-![image](https://user-images.githubusercontent.com/87348583/145677421-2ee95626-f03f-4788-9afd-d210c47d70c6.png)
+# 여기에 이미지
 
 - **MobileNetV2** 모델 전이 학습
 - *Flask* 웹 프레임워크를 통해 *html*과 *CSS*로 구현된 웹페이지와 *Python* 코드 연결
