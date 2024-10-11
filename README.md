@@ -11,6 +11,7 @@ using *Flask*
 - 웹페이지를 통해 **이미지 업로드** 및 **예측**
 
 ## Getting Started
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ```
 main.py
 http://localhost:5000/
